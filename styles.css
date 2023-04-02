@@ -19,80 +19,10 @@ index.html
     <header>
         <div class="container">
             <div class="content">
-                <img src="./img/logo-white.png" alt="Facebook Logo">
-                <button>Create New Account</button>
-            </div>
-        </div>
-    </header>
-    <main>
-        <div class="container">
-            <section class="login-form">
-                <h1>Login to Facebook</h1>
-                <form>
-                    <input type="text" placeholder="Email address or phone number">
-                    <input type="password" placeholder="Password">
-                    <button type="submit">Log In</button>
-                    <a href="#">Forgotten Account?</a>
-                    <p><span>or</span></p>
-                </form>
-                <button class="create-account">Create New Account</button>
-
-            </section>
-        </div>
-
-    </main>
-    <footer>
-        <div class="container">
-            <ul class="languages">
-                <li><a href="#">English (UK)</a></li>
-                <li><a href="#">বাংলা</a></li>
-                <li><a href="#">हिन्दी</a></li>
-                <li><a href="#"> اردو</a></li>
-                <li><a href="#">नेपाली</a></li>
-                <li><a href="#">ଓଡ଼ିଆ</a></li>
-                <li><a href="#">Español</a></li>
-                <li><a href="#">Português (Brasil)</a></li>
-                <li><a href="#">Français (France)</a></li>
-                <li><a href="#">Deutsch</a></li>
-                <li><a href="#">Italiano</a></li>
-                <button><i>+</i></button>
-            </ul>
-            <hr>
-            <ul class="tags">
-                <li><a href="#">Sign up</a></li>
-                <li><a href="#">Login</a></li>
-                <li><a href="#">Messenger</a></li>
-                <li><a href="#">Facebook Lite</a></li>
-                <li><a href="#">Watch</a></li>
-                <li><a href="#">People</a></li>
-                <li><a href="#">Profiles</a></li>
-                <li><a href="#">Pages</a></li>
-                <li><a href="#">Page Categories</a></li>
-                <li><a href="#">Events</a></li>
-                <li><a href="#">Places</a></li>
-                <li><a href="#">Games</a></li>
-                <li><a href="#">Locations</a></li>
-                <li><a href="#">Marketplace</a></li>
-                <li><a href="#">Groups</a></li>
-                <li><a href="#">Instagram</a></li>
-                <li><a href="#">Local</a></li>
-                <li><a href="#">Fundraisers</a></li>
-                <li><a href="#">Services</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Create Ad</a></li>
-                <li><a href="#">Create Page</a></li>
-                <li><a href="#">Developers</a></li>
-            </ul>
-
-            <p>Facebook © 2019</p>
-        </div>
-
-    </footer>
-</body>
-
-</html>
-styles.css
-/* Removing user agent default styles */
+                
+            
+                
+            
 body, ul, li, a, h1, h2, h3, h4, h5, h6, p {
     margin: 0;
     padding: 0;
